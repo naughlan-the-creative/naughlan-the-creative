@@ -1,16 +1,13 @@
-## Hi there 👋
+## Nolo Theledi
 
-<!--
-**naughlan-the-creative/naughlan-the-creative** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Multimedia and graphic designer working across print, photography and the web.
 
-Here are some ideas to get you started:
+I design with one system across every medium: the same typefaces, palette and grid carry from an InDesign report to a live website.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured work
+
+**[Water Within Reach](https://naughlan-the-creative.github.io/water-within-reach/)**: a responsive data story on household access to piped water across South Africa's nine provinces. It's hand-coded in HTML, CSS and JavaScript, with an interactive SVG chart built on Stats SA *General Household Survey 2025* data. [View the code →](https://github.com/naughlan-the-creative/water-within-reach)
+
+### Tools
+
+Photoshop · InDesign · HTML · CSS · JavaScript
